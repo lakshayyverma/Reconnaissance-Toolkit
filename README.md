@@ -1,5 +1,5 @@
 # Reconnaissance-Toolkit
-This project aims to significantly reduce the manual effort required for tasks such as port scanning, vulnerability scanning  etc.
+The Recon Strike reconnaissance toolkit is a comprehensive system designed for performing enumeration and vulnerability assessments on host devices. It integrates multiple scanning techniques to identify and analyze potential security weaknesses.
 
 ## Installation
 
